@@ -15,5 +15,5 @@
 homepage: "https://www.openwidget.com"
 documentation: "https://help.openwidget.com/"
 versions:
-    - sha: 0d4ff0e5e9847d5439e8de1da56098a148293117
-      changeNotes: Initial Version
+  - sha: 4089080d459d02a71530669ab8a2c4a34b662851
+    changeNotes: Initial release.
