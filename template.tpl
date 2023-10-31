@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "OpenWidget Tag",
+  "categories": ["ATTRIBUTION", "LEAD_GENERATION", "MARKETING", "SOCIAL", "SURVEY"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
